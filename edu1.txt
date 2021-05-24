@@ -1,0 +1,1 @@
+This is the file which I intend to add to git repository.
